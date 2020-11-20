@@ -1069,7 +1069,8 @@ select::-ms-expand {
 .navbar-nav .clickD.toggled ~ .sub-menu, .navbar-nav .toggled .sub-menu {
   display: block;
   top: 0;
-  background: #b70606;
+  /*background: #b70606;*/
+  background: #e40000;
 }
 @media (min-width: 768px) {
   .navbar-nav .clickD.toggled ~ .sub-menu, .navbar-nav .toggled .sub-menu {
